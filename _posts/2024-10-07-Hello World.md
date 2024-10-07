@@ -7,6 +7,4 @@ comments: true
 author: zaz203
 ---
 
-# Hello World!
-
 Hello World! (Github Pages)
