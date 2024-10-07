@@ -36,6 +36,6 @@ author: zaz203
 
 [链接]
 
-https://www.123pan.com/s/lfKyVv-iW98d.html 提取码:grF4
+[固件](https://www.123pan.com/s/lfKyVv-iW98d.html) 提取码:grF4
 
 ps.第一次用markdown写文章，可能不太熟练，还请谅解。
