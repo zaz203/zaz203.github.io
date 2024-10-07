@@ -13,12 +13,13 @@ author: zaz203
 
 [信息]
 
----
 刷机包类型: 线刷包
+
 适用机型代号: rover/rubyfish
+
 版本: Wear OS 2/安卓版本9
+
 作者:Luoyanxyy
----
 
 [修改的内容]
 
