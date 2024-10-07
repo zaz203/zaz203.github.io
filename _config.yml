@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "zaz203's blog"
+description: "zaz203的个人博客"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://zaz203.github.io/images/avatar.png
+favicon: https://zaz203.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: zaz203@outlook.com
   facebook:
-  github: pianfan
+  github: zaz203
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 zaz203
 
-url: https://pianfan.github.io
+url: https://zaz203.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
