@@ -2,7 +2,7 @@
 layout: post
 title: "Ticwatch Pro 3 国行固件"
 date:   2024-10-07
-tags: [资源, Ticwatch， 刷机]
+tags: [资源, Ticwatch, 刷机]
 comments: true
 author: zaz203
 ---
