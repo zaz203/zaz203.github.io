@@ -38,4 +38,8 @@ author: zaz203
 
 [固件](https://www.123pan.com/s/lfKyVv-iW98d.html) 提取码:grF4
 
+
+[备用链接](https://luoyanteam-my.sharepoint.com/:u:/g/personal/resdrive_luoyanteam_onmicrosoft_com/EXr1u5-e1JtDq4uNc4chntIBIXp6fUP-us8owZfS3ozlsg?e=sS9J2l)
+
+
 ps.第一次用markdown写文章，可能不太熟练，还请谅解。
