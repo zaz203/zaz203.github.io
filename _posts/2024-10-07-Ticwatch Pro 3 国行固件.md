@@ -7,8 +7,6 @@ comments: true
 author: zaz203
 ---
 
-# Ticwatch Pro 3 国行固件分享
-
 做了一个ticwatch pro x(3 国内版)国内包，Rover(LTE)已刷入测试，其他版本谨慎刷入【刷入后不可使用OTA】
 
 [信息]
