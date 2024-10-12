@@ -7,8 +7,6 @@ comments: true
 author: zaz203
 ---
 
-## 联系方式
-
 E-mail(reply often): zaz203@outlook.com
 
 Coolapk: luoyanxyy
