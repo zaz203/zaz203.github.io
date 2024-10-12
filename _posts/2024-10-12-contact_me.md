@@ -11,11 +11,7 @@ author: zaz203
 
 E-mail(reply often): zaz203@outlook.com
 
-E-mail(personal): zeromostia@gmail.com
-
 Coolapk: luoyanxyy
-
-Bilibili: 6666memz
 
 ### 注意
 
