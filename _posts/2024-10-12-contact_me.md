@@ -7,12 +7,12 @@ comments: true
 author: zaz203
 ---
 
-E-mail(reply often): zaz203@outlook.com
+E-mail: zaz203@outlook.com
 
 Coolapk: luoyanxyy
 
 ### 注意
 
-不提供 Ticwatch Pro 3 系列刷机服务，可提供疑问服务，部分操作需提前准备备份文件。
+不提供任何机型刷机服务，若有疑问请联系我。
 
 zaz203@outlook.com
