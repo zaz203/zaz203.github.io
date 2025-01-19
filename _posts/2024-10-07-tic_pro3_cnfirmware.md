@@ -7,7 +7,7 @@ comments: true
 author: zaz203
 ---
 
-做了一个ticwatch pro x国内包，Rover(LTE)已刷入测试，其他版本谨慎刷入【刷入后不可使用OTA】
+做了一个ticwatch pro x国内自用包，Rover(LTE)已刷入测试，其他版本谨慎刷入【刷入后不可使用OTA】
 
 🔔注意🔔
 针对于原Ticwatch Pro 3用户，建议您前往本博客的另一篇文章(标志名:tic_pro3_stockcn_firm)
@@ -34,6 +34,11 @@ author: zaz203
 
 5.oem.img
 
+[BUG]
+
+严重:可能无法使用屏幕锁定功能，若测试无法解锁请删除/data/system/lock_setting.db
+
+其他:无法使用OTA,开机动画被修改
 
 [链接]
 
@@ -42,5 +47,6 @@ author: zaz203
 
 [备用链接](https://luoyanteam-my.sharepoint.com/:u:/g/personal/resdrive_luoyanteam_onmicrosoft_com/EXr1u5-e1JtDq4uNc4chntIBIXp6fUP-us8owZfS3ozlsg?e=sS9J2l)
 
+自用包，不接受反馈
 
 ps.第一次用markdown写文章，可能不太熟练，还请谅解。
