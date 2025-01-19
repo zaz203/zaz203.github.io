@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Ticwatch Pro 3 国行固件"
+title: "Ticwatch Pro 3 国行官改"
 date:   2024-10-07
 tags: [资源, Ticwatch, 刷机]
 comments: true
 author: zaz203
 ---
 
-做了一个ticwatch pro x国内自用包，Rover(LTE)已刷入测试，其他版本谨慎刷入【刷入后不可使用OTA】
+做了一个ticwatch pro x国内官改包，Rover(LTE)已刷入测试，Rubyfish请勿刷入
 
 🔔注意🔔
 针对于原Ticwatch Pro 3用户，建议您前往本博客的另一篇文章(标志名:tic_pro3_stockcn_firm)
