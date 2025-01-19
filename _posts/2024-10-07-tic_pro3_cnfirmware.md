@@ -7,7 +7,10 @@ comments: true
 author: zaz203
 ---
 
-做了一个ticwatch pro x(3 国内版)国内包，Rover(LTE)已刷入测试，其他版本谨慎刷入【刷入后不可使用OTA】
+做了一个ticwatch pro x国内包，Rover(LTE)已刷入测试，其他版本谨慎刷入【刷入后不可使用OTA】
+
+🔔注意🔔
+针对于原Ticwatch Pro 3用户，建议您前往本博客的另一篇文章(标志名:tic_pro3_stockcn_firm)
 
 [信息]
 
