@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://zaz203.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/about</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/tags</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/cdn-cgi/l/email-protection</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/contact_me</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/nouscrackrc</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/tic_pro3_cnfirmware</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/Hello-World</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io/user_manual</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zaz203.github.io</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-01-19</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
