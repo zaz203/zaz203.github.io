@@ -12,4 +12,4 @@ Ticwatch Pro 3 的官方固件，Pro X 不可使用
 
 回锁后可正常更新
 
-链接(BaiduNetdisk)：[https://pan.baidu.com/s/1rBC2QV5TH2YYHln-YqdTnA] 提取码: lyxy 
+链接[百度云]([https://markdown.com.cn](https://pan.baidu.com/s/1rBC2QV5TH2YYHln-YqdTnA))提取码: lyxy 
