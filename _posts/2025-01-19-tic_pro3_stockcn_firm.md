@@ -13,8 +13,9 @@ Ticwatch Pro 3 的官方固件，Pro X 不可使用
 
 链接([百度云](https://pan.baidu.com/s/1rBC2QV5TH2YYHln-YqdTnA))提取码: lyxy 
 
-
 感谢：
-固件来源：fix666 手机维修论坛([点击前往](https://fix666.com/forum.php?mod=viewthread&tid=168))
+
+固件来源：fix666 手机维修论坛
+([点击前往](https://fix666.com/forum.php?mod=viewthread&tid=168))
 
 若侵权，请联系我删除(zaz203@outlook.com)
