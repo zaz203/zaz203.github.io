@@ -2,7 +2,7 @@
 layout: post
 title: "树莓派4B Docker环境安装OpenWrt及配置代理服务"
 date:   2024-5-2
-tags: [guide，rpi，openwrt]
+tags: [Openwrt,rpi,guide]
 comments: true
 author: YanLuo洛(zaz203)
 ---
