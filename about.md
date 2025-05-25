@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+### 暂停更新，请前往 https://lyxyy.us.kg 新博客
+
 ## 关于我
 
 你好，我是zaz203(Luoyanxyy)
