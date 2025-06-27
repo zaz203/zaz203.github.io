@@ -1,10 +1,10 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![zaz203](https://img.shields.io/badge/zaz203-github-blue?logo=github)](https://github.com/zaz203)
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zeromostia@gmail.com</code>  
+<code>zaz203@outlook.com</code>
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
